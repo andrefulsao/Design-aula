@@ -1,5 +1,5 @@
 package Principal;
 
 public class principal {
-	sysout
+	system of
 }
