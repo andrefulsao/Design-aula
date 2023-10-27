@@ -1,8 +1,8 @@
 package Classes;
 
-import java.sql.Date;
+import java.util.Date;
 
-public class emprestimo {
+public class Emprestimo {
 	private Date dataEmprestimo;
-	private Date dataDevolver;
+	private Date dateDevolver;
 }
